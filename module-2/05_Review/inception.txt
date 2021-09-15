@@ -1,0 +1,39 @@
+-- What genre is the movie Inception part of?
+
+select * from movie; -- has no data on genre
+select * from genre; -- has not data on individual movies
+select * from movie_genre; -- looks promising
+
+-- 1. what is the movie ID of Inception?
+select * from movie
+where title = 'Inception';
+-- We learn that Inception has an id of 27205
+
+-- 2. what genre categories does Inception fall under?
+select * from movie_genre
+where movie_id = 27205;
+-- We learn that it's part of genre 12, 28, and 878
+
+-- 3. what are the genre descriptions of 12, 28, and 878?
+select * from genre
+where genre_id IN (12, 28, 878);
+-- We learn that inception is Action (28), Adventure (12), and SciFi (878).
+
+-- 4. Can you write this in just 1 query?
+SELECT genre.genre_name
+FROM movie_genre 
+JOIN movie ON movie_genre.movie_id = movie.movie_id
+JOIN genre ON movie_genre.genre_id = genre.genre_id
+WHERE movie.movie_id = 27205;
+
+-- 5. Same results as above, but using a subquery
+SELECT genre.genre_name
+FROM movie_genre 
+JOIN movie ON movie_genre.movie_id = movie.movie_id
+JOIN genre ON movie_genre.genre_id = genre.genre_id
+WHERE movie.movie_id = (
+select movie_id from movie
+where title = 'Inception'
+);
+
+

@@ -1,0 +1,46 @@
+Bug 1
+-----
+Test that demonstrates problem:
+getTimesheetsByEmployeeId_returns_list_of_all_timesheets_for_employee
+Expected output:
+timesheets.size() should return 2
+Actual output:
+timesheets.size() returning 1.
+How did you fix this bug?
+Switched 'if' to 'while' on line 39.
+
+Bug 2
+-----
+Test that demonstrates problem:
+getTimesheetsByProjectId_returns_list_of_all_timesheets_for_project
+Expected output:
+timesheets.size() should return 3
+Actual output:
+timesheets.size() returning 2
+How did you fix this bug?
+sql was entering 'employee_id' instead of 'project_id'. Corrected this.
+
+
+Bug 3
+-----
+Test that demonstrates problem:
+updated_timesheet_has_expected_values_when_retrieved
+Expected output:
+be able to set billable to true or false
+Actual output:
+unable to update billable boolean
+How did you fix this bug?
+added boolean billable variable to query
+
+
+
+Bug 4
+-----
+Test that demonstrates problem:
+getBillableHours_returns_correct_total
+Expected output:
+return sum only if billable = true
+Actual output:
+returning sum even if billable = false
+How did you fix this bug?
+added billable = true to query conditions

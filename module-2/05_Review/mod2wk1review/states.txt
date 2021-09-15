@@ -1,0 +1,10 @@
+CA,California,39512223,423967,264,7.250,The Golden State,West
+IL,Illinois,12671821,149995,297,1.000,Prairie State,Midwest
+MI,Michigan,9986857,250487,167,1.000,The Great Lakes State,Midwest
+OH,Ohio,11689100,116098,74,1.000,Buckeye State,Midwest
+AL,Alabama,4903185,135767,198,4.000,Heart of Dixie,South
+AK,Alaska,731545,1723337,155,0.000,The Last Frontier,West
+AZ,Arizona,7278717,295234,238,5.600,Grand Canyon State,West
+AR,Arkansas,3017804,137732,175,6.500,The Natural State,South
+CO,Colorado,5758736,269601,88,2.900,Centennial State,West
+CT,Connecticut,3565278,14357,133,6.350,Constitution State,Northeast

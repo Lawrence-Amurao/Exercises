@@ -1,0 +1,179 @@
+1-1 Command Line Shell and Git:
+https://techelevator.zoom.us/rec/share/C4Vb9jyuxZbioqQ-T_N5o22dc-WoZ5WFntSdSSRSHzeiQl1D7vitkXsV37TvZeHf.UM6cG2uBUDGUI8N_
+
+1-2 Variables and Data Types:
+https://techelevator.zoom.us/rec/share/aIMmg9s73-3Rt8jtOtTctUdLmf5TcCpfX2cJOXSGBOL91wvtb_qVQBDuj2nxNaRM.chIX3Po2PnbpK4bi
+
+1-3 Expressions, Statements, and Logical Branching
+https://techelevator.zoom.us/rec/share/WA6uPwz4Hfkfcv2bxS3ChzO85UjsHLLdR3o_ckzNJfHY7LQRGpzRfR8Ke7YLg79f.QuLlCNC8Ll4GqCeL
+
+1-4 Loops and Arrays
+https://techelevator.zoom.us/rec/share/5FCXQzfFNJ8-et6Jx6dWO5JVwj3CQrEc7ve1wtmR264y6vJFIO4JzFx7enVHRsNy.FroPiwkjWOu2AeT7
+
+1-5 Command Line Programs
+https://techelevator.zoom.us/rec/share/yPzNyVux7ZvVIWKuZ_WiXxOVYi8epbuPY7HHiLmonFzp2jZjZ5OHFv0GPRrvqfFZ.aO5JGilOhUIGhxoy
+
+1-6 Intro to Objects with Strings
+https://techelevator.zoom.us/rec/share/ot2g9GbT3JvBE4dekJJNMCV4zPADX0fChHQNdpBO03FRKqfQFCZymHcEGjjud29f.fZIv_RAHOMuFC7-l
+
+1-7 Collections Part 1 (ArrayLists)
+https://techelevator.zoom.us/rec/share/9k9kZh2a46dYU2E07t1O4H9A6uq_NiXPfWIOIYfMZnHTVrLU7h2BpcA0BMEf1bsC.n0riNOOAOaFiTk9A
+
+1-8 Collections Part 2 (HashMaps)
+https://techelevator.zoom.us/rec/share/5YXeJbVJ2YWWeGiLQnHSGEOvN3W7nftzBrsKrFedDVo9Sw6KwfE9L2Y2r3vtM9WJ.IatdLZHmSdPn6QHb
+
+1-9 Classes Encapsulation
+https://techelevator.zoom.us/rec/share/7uVsrd_7u8xwCB04bzzFWbhkohP-MXYwCqH1yrx8Ryuhm4BYgxEUJ0bNfwuanoE.5EOk9IstO3GqrteV
+
+1-10 -- None - review day not held because of 4th of July
+
+1-11 Inheritance - missing middle hour
+https://techelevator.zoom.us/rec/share/eYc3jtoLXYiXju3GSAS7wOT-yid5GhxUes7_xdeaqVfaqfLCaA154IFjJG98b1Tb.z5WHETt8M4uIHeRF
+
+1-12 Polymorphism
+https://techelevator.zoom.us/rec/share/zqx7oRsgihaOMEKcjNcyTMtn-EtVPg3G7eKKHVZ5bQZ1fq1S18zLiQWCt9tEJFSZ.ajpr0fBPK0am32SF
+
+1-13 Inheritance - Abstract Classes
+https://techelevator.zoom.us/rec/share/PMKzr9qhgXv7SKtJ2wNTyy3oeP6Syt8J-UujGIBuj6qpqqAwEETQGjd5emm9B7Yh.1cifVLua-kQxCOiP
+
+1-14 Unit Test
+https://techelevator.zoom.us/rec/share/DMgTbsv8mgcXuPHpI_Eaj6yq8aTjDsS2OuQNvaJwfYxo7xuKgOMWAUAzXkK0U73y.mI7OHHvgwLI6UH3E
+
+1-15 Review 
+https://techelevator.zoom.us/rec/share/eZKArgxu2tfQvkYBhNje83nhkxIebCBB-Lk_RFGzvw9TjsCIk3RR4lGyD9xK_gyl.JrjzQ47HzXv-UUu9
+
+Afternoon Review Session with Ben
+https://techelevator.zoom.us/rec/share/rxl4BuhLQw0mAH_pjbyd-DLdHQtFAl-q86f6Q0kEHYjdZ8xXOmGmCl9mhx6PWMJb.xpVIxpXOipHZUaqq
+
+1-16 - File Input
+https://techelevator.zoom.us/rec/share/oUctft2P9Kn4NwdNMKGTFisz-4ucZQIprZF-E2MqNWerrm5MnQ8V2ermeu1lGpR1.FXMdVXu2MCvVCuZZ
+
+1-17 File Output
+https://techelevator.zoom.us/rec/share/1RNKYbo_JHulp5k6b5WDHbXVaZRxln7bvEn9eHEensrdmYzPLt0QM1Vt_NBMxKzA.9XqQ3XSOAltHqt8i
+
+1-18 Review
+https://techelevator.zoom.us/rec/share/QBHWq0bSwAyWjLJ9FU2WTJcVEw6rBphLywmRlmJ_gMjUuHqpdVWIPA3R7KASFjE.MpRnZqKQk-H80Z76
+
+1-19 Capstone Kick-off!
+https://techelevator.zoom.us/rec/share/gPTRaeXcQOsuVtNdDlfDz5yR2ZbfBLRBOXxCgfXd5tdVuzp9I2QoGoQ_8yyQj3Zc.ZvG2LTQ3A6tJobpf
+
+2-1 Intro to Databases and SQL
+https://techelevator.zoom.us/rec/share/bPHmdUbszKSJFxQmWk-sjv4CjxjpOAoZ5Ws8o8hY-GW0tAZUSbMk-5SFZD-HKlFc.v__V-8mYNd14IonP 
+Passcode: eZAGx2G.
+
+2-2 Sorting and Aggregation SQL
+https://techelevator.zoom.us/rec/share/wLdpPKwpPQHGZ51Xhgra94lde3HFmnUuLlcWxI-hhUw3xvcekGaFaQ_AtHKKS1s8.30l161uP4UhHYjMM 
+Passcode: s7seaV+W
+
+2-3 Joins
+https://techelevator.zoom.us/rec/share/IEPIdDeZEMGYr-qJk0SWK1JtWRaljUAO5t5ZAT920d0KwQKORxCOpXd9nWwmpShX.S9jWJhqerJ-IAMu3 
+Passcode: C*5i@?Dx
+
+2-4 INSERT, UPDATE, DELETE
+https://techelevator.zoom.us/rec/share/FS_JnACUi9x49INDGkGNxp6nSOtEe1UUAeli5t_RUYAhYO1agq0tDjh429l_XeXb.7keE0XlU4L1QXlo0 
+Passcode: j5!q?!0A
+
+2-5 Review
+https://techelevator.zoom.us/rec/share/CVIsdY4P5brrCkx9Z1kLge8y7n2gOw2FrVjXpiqAOPPC7E_IVKHwtnXG8EKoT8Bk.gmoyNuH93HhymCZV 
+Passcode: 44qu!60C
+
+2-6 Database Design
+https://techelevator.zoom.us/rec/share/4h3ASsSgn7ZYudpRORXl1mzAkV_Mt8xpv4aHRHKaM-0KkjiUnK9NKT6JZFOdT2DK.AW4bngNp4qilz1Z8 
+Passcode: gc9vi?4C
+
+2-7 DAO Pattern
+https://techelevator.zoom.us/rec/share/lpIs001RcOcEakeW8OdkjWYyKNQEWgPWykwsm26JjclL5kh8qUYgdFHSdDzv-Lw.ElMc4VXklVCStt0d 
+Passcode: TQ?+E&4&
+
+2-8 Integration Tests / Testing DAO classes
+https://techelevator.zoom.us/rec/share/IRnGJTZrxOdTt4Aox51o7xmA8vOQ4ROgo6kMYExEBDQ4jf804sWtzoc5JS6J01Mq.VT4EmGJZrJHucqph 
+Passcode: 2sien#d?
+
+2-9 SQL Injection & Storing User Data
+https://techelevator.zoom.us/rec/share/HSATz2-vpYR16G_NhNa_mjtV1XPBQQt1thbSOhP5g6On9JIbkyhbi7yensRSqZLw.VWeVfRX6UBnvtfaM 
+Passcode: Y@43@xe$
+
+Review
+https://techelevator.zoom.us/rec/share/GQpJwT-CEdAK6Sd9ZQuQ-xeQDyCDShfx1bswVPSotGoEmXLt91K10IBcrCua3UsI.uJFBJor2AlJAY4bf 
+Passcode: m=7bqJ4n
+
+2-11 APIs: Consuming GET requests
+https://techelevator.zoom.us/rec/share/2vgpYdGqBbMd5_Qxg8eN_oH01K08fwwW3f6bcnjxynM8uL9vm6K7MuYCsBuoDynK.d0akdWv3lNxHuwC2 
+Passcode: ?av0tc#7
+
+2-12 APIs" Consuming POST, PUT, DELETE requests
+https://techelevator.zoom.us/rec/share/bYHFSU_-5fkUsuo-ECBCUFXuZusaZOJGpGFaxvHRQm8ncsUzx6UhL9qS7cxN9YCJ.2iwO-sYThZSEKjAq 
+Passcode: W0!2WnXF
+
+2-13 Server Side, Creating APIs Part 1
+https://techelevator.zoom.us/rec/share/T3E0WfEDXDAU4jKWCDInGypEu1TPPsEzgyglWS7yaotvUXLbFcu7uAi5IWE09GE_.Wm8MfyBACHOd1pM2 
+Passcode: gZA61n@y
+
+2-14 Server Side, Creating APIs Part 2
+https://techelevator.zoom.us/rec/share/Ud97vECBTC51Kp-VrXj7tlGDCwLpD6zv3L0Ex7OfAT2eI_zX5roJPgaYwlHcloSj.vi36I5u_h_EoFHIn
+
+2-15 Review
+https://techelevator.zoom.us/rec/share/lbflkaLiCz6kKs7zWz3H9b0gRLXfX5-8gyv1D0SGock4C6sBXaedbk-tj-M49blp.aB37ssG-wJbCCVlH
+
+2-16 Authentication 
+https://techelevator.zoom.us/rec/share/Y79D2oIRVfcAj_iKn5Lc7kqLRFLPckwlLQT4Wnb49AWa9tqWnzRNFQSUKyIc9JA.--AJcXx6_EVBvUdW 
+Passcode: 46jh@mZ=
+
+2-17 Review
+https://techelevator.zoom.us/rec/share/IeAUOf85GN8D_1FwIsrllSJIAKXPJXtobff8F_LrT9sCBbUk_LiVTy36NxYS7_K9.IBw-eUCqbTM7FUrx 
+Passcode: zn9i@LMB
+
+2-18 Caspstone 2 Intro
+https://techelevator.zoom.us/rec/share/Yg5hptE_HVyah2RQvTlHozNpj6JtsO0vXvVfjvPD5OiKhdHfYepG5Nl03tzdqIQn.FrlRbA7zUc-jx3PQ 
+Passcode: !r.v762=
+
+3-1 Intro HTML CSS
+https://techelevator.zoom.us/rec/share/71ZBXx0v_cBLvSyU8RrImphdgVOZStrW_ZO0XWkiCX991JJ0stIdZEzyKu8RYLz8._u2Ukr-W4e_eZLJd 
+Passcode: tgQnkJ=7
+
+3-2 CSS Selectors
+https://techelevator.zoom.us/rec/share/9npQPnw-WqYLOzCg1OcD8h9YgRQftkrZ19D9GqyZ1G_z8K6nfMOW8mqJ-uEOkw.gimqfJUKThDxsWsO 
+Passcode: sc2*MQZu
+
+3-3 CSS-Grid
+https://techelevator.zoom.us/rec/share/-AAoFYnm6xW9QKXlRyp1CNhEyhssx6lwNxo3a6Tn8h5fKjN541gq_H61RM15bYKR.CUd5eLE9lf4uvoQV 
+Passcode: a@4W*tSN
+
+3-4 Flexbox
+https://techelevator.zoom.us/rec/share/j6aTGgNCAz8e7qo9yBgmogJbCB6Pj8s4Z_z1JFgrKdQX1HK-o7VrZSl-sjSPC0Rt.Pf-Y6jdwz33a76gN 
+Passcode: Z&5JSf$j
+
+3-6 Introduction to JavaScript
+https://techelevator.zoom.us/rec/share/OUKVMYcTY_nvUY8DdANaIRQTfv8opRKD6lxH3OJsnlKBkJf-SYP6gjNI4iA4cZdj.TG3SsSRMhCd7rv5U 
+Passcode: prz39B0@
+
+3-7 JavaScript Functions
+https://techelevator.zoom.us/rec/share/xBaVQAHKusG8PpH8v1iTw_PeZBUaxPk41jWSXxVeOIKzm9dbvODwP8pInGE1vJ-Z.KpA3Msdlf6rATVyk 
+Passcode: ^4F5X^a7
+
+3-8 DOM
+https://techelevator.zoom.us/rec/share/WbhsNd4fTngNuB87KzX61uqLD4NcjO-MhFTTEiJ_MDnLYvUH4fhV_xPQg73Pzf8V.rvGNpy3X3ffy9PYd 
+Passcode: LXG@9Whe
+
+3-9 Event Handling
+https://techelevator.zoom.us/rec/share/ZVNhhOf2f1etPTQAuz9-b_yeCalF8_6o0h1HujpvJz-pzWvoZk2F9770ZAfp4eFL.wcWufnjBFrapKTXo 
+Passcode: =4eEGASn
+
+3-11 Intro to Vue
+https://techelevator.zoom.us/rec/share/G-JKmFzcHweihkpvlWP1EFxq6BlzImnjtfi7Rwf0aRPEJBgVZ7-PXvIHaYYGtByc.rVyQPCoA17iuuhBD
+
+Bonus Lecture - API calls with Vanilla JS
+https://techelevator.zoom.us/rec/share/SXvxI8wvLRck6UDpco0c8ITjI8yiF9hgjJgB6_0TE5e8CRrUEAfckhMt2C2aZ4bs.1_tnz4vwvS-1U_Jn
+
+3-12 Vue Event Handling
+https://techelevator.zoom.us/rec/share/CTUCBYDd_GApswvKQk-xLed2yU-Fm8Q4cE_JbTXHXkDmmeQJFLcgTZlzieQXVbOl.X7SYW2SgUtPc71BH
+
+3-13 Vue Component Communication
+https://techelevator.zoom.us/rec/share/jFUGdQA-vOCwieAIUaoYNTdkiJ4y-zJaCrKZnzhSQrEjk31pl63sNE5_xWkaSrP3.jXNw4J3bP2dUkVWP
+
+3-15 Vue Router
+https://techelevator.zoom.us/rec/share/KhHY3XSBjvbfdMh4AYHLZQ77V7rimTXMNStSXYlMP6zRq8Osl-_nXe3tHldLRP3B.MxfMg0F2JJmcGQpE
+
+3-16 Vue and Axios - GET
+https://techelevator.zoom.us/rec/share/0MDorEcdEBUG-ShLq9JJIuTUvOKmosv5Hv8fMr98HosOV_CnC99420_qrB6CScmU.k9KzWMkfTZlYCtyU
+

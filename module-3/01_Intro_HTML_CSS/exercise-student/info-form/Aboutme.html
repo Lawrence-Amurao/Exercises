@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+    <link rel="stylesheet" href="\CSS\styles2.css" />
+</head>
+<body>
+    <header>
+        <h1><b><u>ABOUT ME</u></b></h1>
+    </header>
+
+    <main>
+        <h2>Personal Info</h2>
+        <form method="POST" action="https://example.com/api/aboutme">
+            <div>
+                <label for="name">*Name:</label>
+                <input id="name" name="reservationName" type="text" required/>
+            </div>
+            <div>
+                <label for="emailaddress">*Email Address:</label>
+                <input id="emailaddress" name="emailaddress" type="email" required/>
+            </div>
+            <div>
+                <label for="dateofbirth">Date of Birth:</label>
+                <input id="dateofbirth" name="dateofbirth" type="date" />
+            </div>
+            <div>
+                <label for="favoritecolor">Favorite Color:</label>
+                <input id="favoritecolor" name="favoritecolor" type="text" />
+            </div>
+            <div>
+                <label for="favoritenumber">Favorite Number:</label>
+                <input id="favoritenumber" name="favoritenumber" type="number" />
+            </div>
+            <div>
+                <label for="websiteportfolio">Website/Portfolio:</label>
+                <input id="websiteportfolio" name="websiteportfolio" type="url" />
+            </div>
+            <div>
+                <label for="Confirm">Confirm</label>
+                <input type="submit" />
+            </div>
+            <p>*Fields in red are required.</p>
+        </form>
+    </main>
+</body>
+</html>
